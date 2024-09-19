@@ -1,0 +1,25 @@
+suu
+su
+denoa
+su
+debian
+su
+debian
+su
+debian
+su
+su debian
+su joaquin
+debian
+su
+debian
+su
+pass
+passwd
+debian
+passwd
+su
+pwd
+ls
+git --version
+su
